@@ -15,8 +15,11 @@ main{
     /* margin: auto; */
     text-align: center;
     padding: .5rem;
-    position: absolute;
-    left: calc(50% - ;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
 }
 .qr-img{
     /* border: 1px solid blue; */
