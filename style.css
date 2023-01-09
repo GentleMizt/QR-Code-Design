@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+.qr-flex{
+    border: 1px solid red;
+    width: 70vw;
+    margin: auto;
+    text-align: center;
+}
+.qr-img{
+    /* border: 1px solid blue; */
+
+}
+.qr-img img{
+    width: 20%;
+    border-radius: .5rem;
+}
