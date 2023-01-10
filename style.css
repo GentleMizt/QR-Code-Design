@@ -34,3 +34,19 @@ main{
     color: hsl(220, 15%, 55%);
     padding-bottom: 1.3rem;
 }
+
+
+
+
+
+
+
+@media (max-width: 950px) {
+    main{
+        width: 85vw;
+    }
+    .qr-flex{
+        width: 50vw;
+        border: 1px solid red;
+    }
+}
